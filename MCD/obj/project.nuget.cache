@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lJm65z8jYk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\mcd\\MCD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thuas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\thuas\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
