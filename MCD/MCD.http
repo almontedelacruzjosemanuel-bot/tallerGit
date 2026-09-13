@@ -1,5 +1,4 @@
-@MCD_HostAddress = https://tiendaapi-fvanc4hhezd2fpa4.centralus-01.azurewebsites.net/api
-
+@MCD_HostAddress = http://localhost:5177
 GET {{MCD_HostAddress}}/mcd/?a=12&b=8
 Accept: application/json
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\MCD\\MCD.csproj": {}
+    "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\mcd\\MCD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\MCD\\MCD.csproj": {
+    "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\mcd\\MCD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\MCD\\MCD.csproj",
+        "projectUniqueName": "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\mcd\\MCD.csproj",
         "projectName": "MCD",
-        "projectPath": "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\MCD\\MCD.csproj",
+        "projectPath": "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\mcd\\MCD.csproj",
         "packagesPath": "C:\\Users\\thuas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\MCD\\obj\\",
+        "outputPath": "C:\\Users\\thuas\\OneDrive\\Desktop\\Universidad\\Programacion 4\\tallerGit\\mcd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thuas\\AppData\\Roaming\\NuGet\\NuGet.Config"
